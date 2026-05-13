@@ -1,0 +1,2 @@
+# EEG
+EEG classification ensemble
